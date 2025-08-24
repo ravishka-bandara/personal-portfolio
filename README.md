@@ -16,9 +16,10 @@ It showcases my skills, projects, and contact details with a modern responsive d
 - images/ → Profile & project images  
 
  Live Demo:  
- (Link will appear after GitHub Pages hosting)  
+ (https://ravishka-bandara.github.io/personal-portfolio/)  
 
 📬 Contact:  
 **Name:** Ravishka Bandara  
 **Email:** ravishkabandara01@gmail.com  
 **GitHub:** [ravishka_bandara](https://github.com/ravishka-bandara)  
+
